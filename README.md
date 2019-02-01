@@ -8,7 +8,7 @@ Digital Systems - INFOTC 2600
 [Link to other markdown page:](https://www.google.com)
 
 Flower Image not in directory: 
-![Flower Image](https://commons.wikimedia.org/wiki/File:JPEG_example_flower.jpg "Flower image")
+![Flower Image](https://upload.wikimedia.org/wikipedia/en/3/3f/Oxalis_tetraphylla_flower.jpg "Flower image")
 
 Flower Image in directory:
 ![alt text](https://www.pexels.com/photo/red-dahlia-flower-60597/ "Flower image")
