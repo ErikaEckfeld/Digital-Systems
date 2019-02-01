@@ -5,7 +5,7 @@ Digital Systems - INFOTC 2600
 
 [A website I use often is google. Click here to check it out!](https://www.google.com)
 
-[Link to other markdown page:](https://www.google.com)
+[Link to other markdown page:](https://github.com/ErikaEckfeld/Digital-Systems/blob/master/markdown2.md)
 
 Flower Image not in directory: 
 ![Flower Image](https://upload.wikimedia.org/wikipedia/en/3/3f/Oxalis_tetraphylla_flower.jpg "Flower image")
