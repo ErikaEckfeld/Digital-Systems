@@ -1,14 +1,14 @@
 # Digital-Systems
 Digital Systems - INFOTC 2600
 
-##This is the "home page" and will have a link to the second markdown page
+## This is the "home page" and will have a link to the second markdown page
 
 [A website I use often is google. Click here to check it out!](https://www.google.com)
 
 [Link to other markdown page:](https://www.google.com)
 
 Flower Image not in directory: 
-![alt text](https://www.pexels.com/photo/red-dahlia-flower-60597/ "Flower image")
+![Flower Image](https://commons.wikimedia.org/wiki/File:JPEG_example_flower.jpg "Flower image")
 
 Flower Image in directory:
 ![alt text](https://www.pexels.com/photo/red-dahlia-flower-60597/ "Flower image")
@@ -17,7 +17,7 @@ Flower Image in directory:
 
 A few of my favorite things:
 1. Summer time
-⋅⋅1. Getting good grades
+2. Getting good grades
 4. Snow days from school
 5. Raindrops on roses
 
@@ -41,7 +41,7 @@ A few of my least favorite things:
 
 ---
 
-The end!
+#### The end!
 
 
 
