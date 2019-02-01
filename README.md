@@ -11,7 +11,7 @@ Flower Image not in directory:
 ![Flower Image](https://upload.wikimedia.org/wikipedia/en/3/3f/Oxalis_tetraphylla_flower.jpg "Flower image")
 
 Flower Image in directory:
-![alt text](https://www.pexels.com/photo/red-dahlia-flower-60597/ "Flower image")
+![alt text](https://github.com/ErikaEckfeld/Digital-Systems/blob/master/flower.jpeg "Flower image")
 
 > this is the block quote for the assignment. I want to make sure that it is long enough to wrap so I will keep on writing. I really like flowers, cooking, and coding. Online classes are great because I can do them from my bed!
 
